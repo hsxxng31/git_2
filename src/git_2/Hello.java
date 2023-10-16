@@ -1,4 +1,4 @@
-package git_test2;
+package git_2;
 
 public class Hello {
     
